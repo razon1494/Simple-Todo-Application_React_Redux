@@ -1,4 +1,4 @@
-import { COLORCHANGED, STATUSCHANGED } from "./actionType";
+import { COLORCHANGED, STATUSCHANGED } from "./actionTypes";
 export const statusChanged = (status) => {
   return {
     type: STATUSCHANGED,
