@@ -1,5 +1,5 @@
 const initialState = {
   status: "All",
-  colors: ["green"],
+  colors: [],
 };
 export default initialState;
